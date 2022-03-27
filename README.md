@@ -1,2 +1,3 @@
-# MSc NeuroImaging
-The data and code in this repository belong to my master's thesis work in IMMA Lab in Trinity College Dublin with Dr Clare Kelly and Jivesh Ramduny.
+# WHMSTS
+
+The work analyses the fMRI data in a HS animation-based narrative research paradigm. It includes the analysis of two cohorts: People in Autistic spectrum and Non-Austic individuals. The mathematical techniques used in this project is InterSubject Correlation Analysis.
